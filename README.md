@@ -1,5 +1,7 @@
 # Дарья Гаврюшенко
 
-![Моё фото](https://file%2B.vscode-resource.vscode-cdn.net/Users/daragavrusenko/Pictures/Photos%20Library.photoslibrary/resources/derivatives/5/5AC7C326-3524-47BC-9071-729F19217B49_1_105_c.jpeg?version%3D1678984755293)
-
 _Учусь в Нетологии на Java-разработчика_
+
+
+
+![Моё фото](https://sun9-1.userapi.com/impf/c630423/v630423414/2960d/fm-E4BsJRmQ.jpg?size=683x1024&quality=96&sign=e7901134450ce85c360fa50b9772d47b&type=album)
